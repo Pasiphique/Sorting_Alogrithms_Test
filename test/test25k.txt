@@ -1,0 +1,144 @@
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 3
+Data setup: random
+Number of trials: 5
+Average Time per trial: 2.462E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 3
+Data setup: Sorted
+Number of trials: 5
+Average Time per trial: 1.376E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 3
+Data setup: Reverse Sorted
+Number of trials: 5
+Average Time per trial: 1.743E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 15
+Data setup: random
+Number of trials: 5
+Average Time per trial: 1.855E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 15
+Data setup: Sorted
+Number of trials: 5
+Average Time per trial: 1.063E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 15
+Data setup: Reverse Sorted
+Number of trials: 5
+Average Time per trial: 1.527E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 25
+Data setup: random
+Number of trials: 5
+Average Time per trial: 3.82E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 25
+Data setup: Sorted
+Number of trials: 5
+Average Time per trial: 1.614E-5
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 25
+Data setup: Reverse Sorted
+Number of trials: 5
+Average Time per trial: 6.0E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 50
+Data setup: random
+Number of trials: 5
+Average Time per trial: 4.05E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 50
+Data setup: Sorted
+Number of trials: 5
+Average Time per trial: 1.32E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 50
+Data setup: Reverse Sorted
+Number of trials: 5
+Average Time per trial: 2.36E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 100
+Data setup: random
+Number of trials: 5
+Average Time per trial: 1.54E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 100
+Data setup: Sorted
+Number of trials: 5
+Average Time per trial: 1.34E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 100
+Data setup: Reverse Sorted
+Number of trials: 5
+Average Time per trial: 8.14E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 500
+Data setup: random
+Number of trials: 5
+Average Time per trial: 2.59E-6
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 500
+Data setup: Sorted
+Number of trials: 5
+Average Time per trial: 6.7E-7
+
+
+Algorithm: Simple Quick Sort
+Array Size: 25
+Base Case: 500
+Data setup: Reverse Sorted
+Number of trials: 5
+Average Time per trial: 1.4E-6
+
+

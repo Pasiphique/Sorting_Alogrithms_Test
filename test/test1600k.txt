@@ -1,0 +1,432 @@
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 3
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.22160573
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 3
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.30325361
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 3
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.12208123
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 3
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.06658248
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 3
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.17509727
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 3
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02577528
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 3
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.08898207
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 3
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.13660406
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 3
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.04952396
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 15
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.10842446
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 15
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.12432653
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 15
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.05482594
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 15
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.04302895
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 15
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.07835542
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 15
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01823753
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 15
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.03939721
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 15
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.08136574
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 15
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.05184672
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 25
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.10472844
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 25
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.1158866
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 25
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.05465089
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 25
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.03300054
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 25
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.07195252
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 25
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02102707
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 25
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.04707607
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 25
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.07945874
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 25
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.0523868
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 50
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.09620878
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 50
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.10436744
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 50
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.05798808
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 50
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.03771395
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 50
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.06132838
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 50
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01923793
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.04158215
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.06146446
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.0667511
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 100
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.08811744
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 100
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.0937197
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 100
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.06741959
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 100
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.03802011
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 100
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.06075858
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 100
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01843187
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 100
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.03468947
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 100
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.06538141
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 100
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.0849423
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 500
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.07033409
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 500
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.07340266
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 500
+Data setup: random
+Number of trials: 10
+Average Time per trial: 0.12051453
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 500
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02784747
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 500
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.04763846
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 500
+Data setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01501985
+
+
+Algorithm: Median Of Three
+Array Size: 1600000
+Base Case: 500
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.03014998
+
+
+Algorithm: Random Pivot
+Array Size: 1600000
+Base Case: 500
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.04886247
+
+
+Algorithm: MergeSort
+Array Size: 1600000
+Base Case: 500
+Data setup: Reverse Sorted
+Number of trials: 10
+Average Time per trial: 0.21925272
+
+
